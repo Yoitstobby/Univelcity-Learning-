@@ -1,0 +1,126 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: 12% 12% 12% 12% 12% 12%;
+    grid-template-rows: 200px 200px;
+    background-color: white(255, 252, 252);
+    justify-content: space-around;
+    padding: 5px;
+    gap: 10px;
+    margin-top: 0%;
+}
+
+.grid-item{
+    background-color: rgb(232, 231, 231);
+    font-family: Arial, Helvetica, sans-serif;
+    width: 130%;
+}
+
+.Per{
+    background-color: pink;
+    padding: 2%;
+}
+
+.img1{
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(https://ng.jumia.is/cms/0-1-weekly-cps/0-2022/w32/Back-to-school/University/1-laptops_260x144.png);
+}
+
+.img2{
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(https://ng.jumia.is/cms/0-0-black-friday/2021/freelinks/plain-bg/phone-deals_260x144.png);
+}
+
+.img3{
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(https://ng.jumia.is/cms/0-1-christmas-sale/2021/homepage-freelinks/detty-december_260x14.png);
+}
+
+.img4{
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(https://ng.jumia.is/cms/0-0-black-friday/2021/freelinks/plain-bg/gaming_260x144.png);
+}
+
+
+.img5{
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(https://ng.jumia.is/cms/0-6-anniversary/2022/hp-freelinks/kids-corner_260x144.png);
+}
+
+.img6{
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(https://ng.jumia.is/cms/0-1-weekly-cps/2021/w51-52/hp-freelinks/accessories-warehouse_260x144v2.png);
+}
+
+.img7{
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(https://ng.jumia.is/cms/0-0-black-friday/2021/freelinks/plain-bg/supermarket_260x144.png);
+}
+
+.img8{
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(https://ng.jumia.is/cms/0-0-black-friday/2021/userneeds/un/health-beauty-deals_260x144.png);
+}
+
+.img9{
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(https://ng.jumia.is/cms/0-0-black-friday/2021/cyber-monday/drones_260x144v2.png);
+}
+
+.img10{
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(https://ng.jumia.is/cms/0-0-black-friday/2021/userneeds/un/home-appliances_260x144v2.png);
+}
+
+.img11{
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(https://ng.jumia.is/cms/0-0-black-friday/2021/userneeds/un/electronics_260x144v2.png);
+}
+
+.img12{
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(https://ng.jumia.is/cms/0-0-black-friday/2021/freelinks/plain-bg/staying-fit_260x144.png);
+}
+
+.Name{
+    text-align: center;
+    color: brown;
+    font-size: 10px;
+    margin: 0px;
+    margin-top: 10px;
+}
