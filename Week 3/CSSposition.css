@@ -1,0 +1,27 @@
+.Relative{
+    position: relative;
+    top: -100px;
+    left: 90%;
+    display: inline;
+}
+
+.current{
+    background-color: brown;
+    color: white;
+}
+
+.Fixed{
+    position: Fixed;
+    background-color: black;
+    color: white;
+    top: 800px;
+    left: 45%;
+}
+
+.Middle{
+    position: Fixed;
+    background-color: black;
+    color: white;
+    top: 400px;
+    left: 45%;
+}

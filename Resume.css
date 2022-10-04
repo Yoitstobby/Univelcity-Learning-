@@ -1,0 +1,33 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.per{
+    background-color: darkgray;
+    color: black;
+    padding: 10px 20px;
+}
+
+.Name{
+    margin: 10px 20px;
+}
+
+ .Name2{
+    border-radius: 7px;
+    font-size: 18px;
+    color: blue;
+    margin-right: 10px;
+    font-weight: bold;
+ }
+
+ .Ptag{
+    margin: 0;
+ }
+
+ .hobby{
+    padding: 10px 20px;
+ }
+
+ .foot{
+    border: 2px solid;
+ }

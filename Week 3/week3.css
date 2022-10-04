@@ -1,0 +1,71 @@
+.Relative{
+    position: relative;
+    top: -100px;
+    left: 95%;
+    display: inline;
+}
+
+.current{
+    color:black;
+    font-size: larger;
+}
+
+.Middle{
+    position: Fixed;
+    background-color: black;
+    color: white;
+    top: 400px;
+    left: 45%;
+    font-size: larger;
+}
+
+.right{
+    position: relative;
+    color: black;
+    font-size: larger;
+    top: -150px;
+}
+
+.bottomleft{
+    position: relative;
+    top: 640px;
+    left: 94%;
+    display: inline;
+    color:black;
+    font-size: larger;
+}
+
+.bottomright{
+    position: relative;
+    color: black;
+    font-size: larger;
+    top: 600px;
+}
+
+.trans1{
+    width: 250px;
+    height: 250px;
+    border: 1px solid;
+    background-color: rgb(15, 15, 167);
+    transition: 2s;
+}
+
+.trans1:hover{
+    transform: rotate(360deg);
+    transition: 2s;
+}
+
+.submit{
+    background-color: rgb(232, 0, 0);
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 30px;
+    transition: 1s;
+}
+
+.submit:hover{
+    padding: 25px;
+    transition: 1s;
+}
+  
